@@ -18,20 +18,20 @@
 
 ---
 
-## 🔬 About Me
+##  About Me
 
 Third-year EEE student at VIT Chennai, interested in **semiconductors, VLSI, embedded systems, and circuit design** — focused on understanding how devices and systems work from the ground up.
 
-- 🎓 **VIT Chennai** — School of Electrical Engineering (CGPA: 9.20)
-- 🏆 **Merit Certificate 2025–26** — Top performer, School of EEE
-- 🏭 **Industrial Intern @ L&T**, Kanchipuram (Apr–Jun 2026) — PLC, VFD, IoT-based crane monitoring
-- 🔭 Interests: VLSI Design · Semiconductor Devices · Embedded Systems · Analog Circuits
-- 🌱 Currently exploring: Verilog/HDL · AWS Serverless · LeetCode DSA
-- 📫 gsanjaykumar26sk@gmail.com
+-  **VIT Chennai** — School of Electrical Engineering (CGPA: 9.20)
+-  **Merit Certificate 2025–26** — Top performer, School of EEE
+-  **Industrial Intern @ L&T**, Kanchipuram (Apr–Jun 2026) — PLC, VFD, IoT-based crane monitoring
+-  Interests: VLSI Design · Semiconductor Devices · Embedded Systems · Analog Circuits
+-  Currently exploring: Verilog/HDL · AWS Serverless · LeetCode DSA
+-  gsanjaykumar26sk@gmail.com
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 **Hardware & Design**
 
@@ -59,20 +59,20 @@ Third-year EEE student at VIT Chennai, interested in **semiconductors, VLSI, emb
 
 ---
 
-## 📂 Repositories
+##  Repositories
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [🔍 reclaim-aws](https://github.com/gsanjaykumar26sk-eng/reclaim-aws) | Serverless lost & found platform for VIT Chennai campus | AWS Lambda, DynamoDB, Cognito, SAM |
-| [⚡ buck-dc-dc-converter](https://github.com/gsanjaykumar26sk-eng/buck-dc-dc-converter) | 30V→15V, 30W classical buck converter — simulation to PCB | MATLAB, LTspice, KiCad |
-| [🏭 lt-internship-2026](https://github.com/gsanjaykumar26sk-eng/lt-internship-2026) | L&T industrial internship — PLC, VFD, IoT monitoring | Documentation |
-| [🔬 pcb-defect-detection](https://github.com/gsanjaykumar26sk-eng/pcb-defect-detection) | PCB defect detection using computer vision | Python |
-| [💻 dsa-solutions](https://github.com/gsanjaykumar26sk-eng/dsa-solutions) | LeetCode solutions — arrays, trees, graphs, DP | Python, C, Java |
-| [🦯 blind-stick-arduino](https://github.com/gsanjaykumar26sk-eng/blind-stick-arduino) | Obstacle detection aid using Arduino Nano | Arduino, C |
+| [ reclaim-aws](https://github.com/gsanjaykumar26sk-eng/reclaim-aws) | Serverless lost & found platform for VIT Chennai campus | AWS Lambda, DynamoDB, Cognito, SAM |
+| [ buck-dc-dc-converter](https://github.com/gsanjaykumar26sk-eng/buck-dc-dc-converter) | 30V→15V, 30W classical buck converter — simulation to PCB | MATLAB, LTspice, KiCad |
+| [ lt-internship-2026](https://github.com/gsanjaykumar26sk-eng/lt-internship-2026) | L&T industrial internship — PLC, VFD, IoT monitoring | Documentation |
+| [ pcb-defect-detection](https://github.com/gsanjaykumar26sk-eng/pcb-defect-detection) | PCB defect detection using computer vision | Python |
+| [ dsa-solutions](https://github.com/gsanjaykumar26sk-eng/dsa-solutions) | LeetCode solutions — arrays, trees, graphs, DP | Python, C, Java |
+| [ blind-stick-arduino](https://github.com/gsanjaykumar26sk-eng/blind-stick-arduino) | Obstacle detection aid using Arduino Nano | Arduino, C |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gsanjaykumar26sk-eng&show_icons=true&theme=default&hide_border=true&title_color=1B4F8A&icon_color=1B4F8A" width="48%"/>
@@ -81,7 +81,7 @@ Third-year EEE student at VIT Chennai, interested in **semiconductors, VLSI, emb
 
 ---
 
-## 🎯 Goals — 2026–27
+##  Goals — 2026–27
 
 - [ ] Learn Verilog and complete a basic VLSI design project
 - [ ] Solve 100+ problems on LeetCode
