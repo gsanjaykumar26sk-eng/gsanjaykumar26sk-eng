@@ -3,7 +3,7 @@
 <p align="center">
   <b>B.Tech Electrical & Electronics Engineering (3rd Year)</b><br/>
   Vellore Institute of Technology, Chennai &nbsp;|&nbsp; 2024–2028<br/>
-  CGPA: 9.17 &nbsp;|&nbsp; Merit Certificate 2025–26
+  CGPA: 9.20 &nbsp;|&nbsp; Merit Certificate 2025–26
 </p>
 
 <p align="center">
