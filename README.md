@@ -20,13 +20,13 @@
 
 ## 🔬 About Me
 
-Third-year EEE student at VIT Chennai, interested in **semiconductors, VLSI, embedded systems, and analog circuit design** — focused on understanding how devices and systems work from the ground up.
+Third-year EEE student at VIT Chennai, interested in **semiconductors, VLSI, embedded systems, and circuit design** — focused on understanding how devices and systems work from the ground up.
 
 - 🎓 **VIT Chennai** — School of Electrical Engineering (CGPA: 9.20)
 - 🏆 **Merit Certificate 2025–26** — Top performer, School of EEE
-- 🏭 **Industrial Intern @ L&T**, Kanchipuram (Apr–Jun 2026) — PLC, VFD, IoT-based monitoring
+- 🏭 **Industrial Intern @ L&T**, Kanchipuram (Apr–Jun 2026) — PLC, VFD, IoT-based crane monitoring
 - 🔭 Interests: VLSI Design · Semiconductor Devices · Embedded Systems · Analog Circuits
-- 🌱 Currently exploring: Verilog/HDL · 8051 Assembly · ESP32 IoT · LeetCode DSA
+- 🌱 Currently exploring: Verilog/HDL · AWS Serverless · LeetCode DSA
 - 📫 gsanjaykumar26sk@gmail.com
 
 ---
@@ -49,12 +49,13 @@ Third-year EEE student at VIT Chennai, interested in **semiconductors, VLSI, emb
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Cloud & Others**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
 ---
 
@@ -62,11 +63,11 @@ Third-year EEE student at VIT Chennai, interested in **semiconductors, VLSI, emb
 
 | Repo | Description | Stack |
 |------|-------------|-------|
+| [🔍 reclaim-aws](https://github.com/gsanjaykumar26sk-eng/reclaim-aws) | Serverless lost & found platform for VIT Chennai campus | AWS Lambda, DynamoDB, Cognito, SAM |
 | [⚡ buck-dc-dc-converter](https://github.com/gsanjaykumar26sk-eng/buck-dc-dc-converter) | 30V→15V, 30W classical buck converter — simulation to PCB | MATLAB, LTspice, KiCad |
 | [🏭 lt-internship-2026](https://github.com/gsanjaykumar26sk-eng/lt-internship-2026) | L&T industrial internship — PLC, VFD, IoT monitoring | Documentation |
-| [☁️ aws-cloud-labs](https://github.com/gsanjaykumar26sk-eng/aws-cloud-labs) | AWS Cloud Computing labs — EC2, S3, VPC | AWS |
-| [🔢 8051-assembly-programs](https://github.com/gsanjaykumar26sk-eng/8051-assembly-programs) | 8051 microcontroller assembly programs | 8051 Assembly |
-| [💻 dsa-solutions](https://github.com/gsanjaykumar26sk-eng/dsa-solutions) | LeetCode solutions — Python, C, Java | Python, C, Java |
+| [🔬 pcb-defect-detection](https://github.com/gsanjaykumar26sk-eng/pcb-defect-detection) | PCB defect detection using computer vision | Python |
+| [💻 dsa-solutions](https://github.com/gsanjaykumar26sk-eng/dsa-solutions) | LeetCode solutions — arrays, trees, graphs, DP | Python, C, Java |
 | [🦯 blind-stick-arduino](https://github.com/gsanjaykumar26sk-eng/blind-stick-arduino) | Obstacle detection aid using Arduino Nano | Arduino, C |
 
 ---
@@ -83,10 +84,10 @@ Third-year EEE student at VIT Chennai, interested in **semiconductors, VLSI, emb
 ## 🎯 Goals — 2026–27
 
 - [ ] Learn Verilog and complete a basic VLSI design project
-- [ ] Build an ESP32 IoT project end-to-end
 - [ ] Solve 100+ problems on LeetCode
+- [ ] Deploy RECLAIM live on AWS and get real users
 - [ ] Contribute to an open-source EDA or hardware project
-- [ ] Secure a core EEE internship for Summer 2027
+- [ ] Secure a core EEE / VLSI internship for Summer 2027
 
 ---
 
